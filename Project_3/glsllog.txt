@@ -1,0 +1,60 @@
+
+0:33(45): error: `nMC' undeclared
+0:33(45): error: type mismatch
+0:33(40): error: cannot construct `vec3' from a non-numeric data type
+0:33(29): error: operands to arithmetic operators must be numeric
+0:33(13): error: no matching function for call to `texture(sampler3D, error)'; candidates are:
+0:33(13): error:    vec4 texture(sampler1D, float)
+0:33(13): error:    ivec4 texture(isampler1D, float)
+0:33(13): error:    uvec4 texture(usampler1D, float)
+0:33(13): error:    vec4 texture(sampler2D, vec2)
+0:33(13): error:    ivec4 texture(isampler2D, vec2)
+0:33(13): error:    uvec4 texture(usampler2D, vec2)
+0:33(13): error:    vec4 texture(sampler3D, vec3)
+0:33(13): error:    ivec4 texture(isampler3D, vec3)
+0:33(13): error:    uvec4 texture(usampler3D, vec3)
+0:33(13): error:    vec4 texture(samplerCube, vec3)
+0:33(13): error:    ivec4 texture(isamplerCube, vec3)
+0:33(13): error:    uvec4 texture(usamplerCube, vec3)
+0:33(13): error:    float texture(sampler1DShadow, vec3)
+0:33(13): error:    float texture(sampler2DShadow, vec3)
+0:33(13): error:    float texture(samplerCubeShadow, vec4)
+0:33(13): error:    vec4 texture(sampler1DArray, vec2)
+0:33(13): error:    ivec4 texture(isampler1DArray, vec2)
+0:33(13): error:    uvec4 texture(usampler1DArray, vec2)
+0:33(13): error:    vec4 texture(sampler2DArray, vec3)
+0:33(13): error:    ivec4 texture(isampler2DArray, vec3)
+0:33(13): error:    uvec4 texture(usampler2DArray, vec3)
+0:33(13): error:    float texture(sampler1DArrayShadow, vec3)
+0:33(13): error:    float texture(sampler2DArrayShadow, vec4)
+0:33(13): error:    vec4 texture(sampler2DRect, vec2)
+0:33(13): error:    ivec4 texture(isampler2DRect, vec2)
+0:33(13): error:    uvec4 texture(usampler2DRect, vec2)
+0:33(13): error:    float texture(sampler2DRectShadow, vec3)
+0:33(13): error:    vec4 texture(sampler1D, float, float)
+0:33(13): error:    ivec4 texture(isampler1D, float, float)
+0:33(13): error:    uvec4 texture(usampler1D, float, float)
+0:33(13): error:    vec4 texture(sampler2D, vec2, float)
+0:33(13): error:    ivec4 texture(isampler2D, vec2, float)
+0:33(13): error:    uvec4 texture(usampler2D, vec2, float)
+0:33(13): error:    vec4 texture(sampler3D, vec3, float)
+0:33(13): error:    ivec4 texture(isampler3D, vec3, float)
+0:33(13): error:    uvec4 texture(usampler3D, vec3, float)
+0:33(13): error:    vec4 texture(samplerCube, vec3, float)
+0:33(13): error:    ivec4 texture(isamplerCube, vec3, float)
+0:33(13): error:    uvec4 texture(usamplerCube, vec3, float)
+0:33(13): error:    float texture(sampler1DShadow, vec3, float)
+0:33(13): error:    float texture(sampler2DShadow, vec3, float)
+0:33(13): error:    float texture(samplerCubeShadow, vec4, float)
+0:33(13): error:    vec4 texture(sampler1DArray, vec2, float)
+0:33(13): error:    ivec4 texture(isampler1DArray, vec2, float)
+0:33(13): error:    uvec4 texture(usampler1DArray, vec2, float)
+0:33(13): error:    vec4 texture(sampler2DArray, vec3, float)
+0:33(13): error:    ivec4 texture(isampler2DArray, vec3, float)
+0:33(13): error:    uvec4 texture(usampler2DArray, vec3, float)
+0:33(13): error:    float texture(sampler1DArrayShadow, vec3, float)
+0:34(15): warning: `nvy' used uninitialized
+0:34(23): warning: `nvy' used uninitialized
+0:34(31): warning: `nvy' used uninitialized
+0:34(39): warning: `nvy' used uninitialized
+
