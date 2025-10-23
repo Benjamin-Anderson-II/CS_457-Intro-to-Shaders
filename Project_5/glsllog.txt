@@ -1,0 +1,4 @@
+
+0:36(2): error: initializer of type float cannot be assigned to variable of type int
+0:37(2): error: initializer of type float cannot be assigned to variable of type int
+
