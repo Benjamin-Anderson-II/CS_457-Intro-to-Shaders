@@ -1,0 +1,10 @@
+
+0:36(19): error: `s' undeclared
+0:36(19): error: operands to arithmetic operators must be numeric
+0:36(15): error: cannot construct `int' from a non-numeric data type
+0:37(19): error: `t' undeclared
+0:37(19): error: operands to arithmetic operators must be numeric
+0:37(15): error: cannot construct `int' from a non-numeric data type
+0:38(13): warning: `numins' used uninitialized
+0:39(13): warning: `numint' used uninitialized
+
