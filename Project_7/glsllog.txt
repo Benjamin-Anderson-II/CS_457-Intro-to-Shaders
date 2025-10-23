@@ -1,0 +1,5 @@
+
+0:63(8): error: `ECPosition' undeclared
+0:63(8): error: type mismatch
+0:63(7): error: operands to arithmetic operators must be numeric
+
